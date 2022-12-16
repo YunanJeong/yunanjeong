@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Linkedin_Profile](https://www.linkedin.com/in/%EC%9C%A4%ED%99%98-%EC%A0%95-047728135/)
 <!--
 **YunanJeong/yunanjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
