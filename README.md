@@ -1,5 +1,7 @@
 ### Hi there 👋
-[Linkedin_Profile](https://www.linkedin.com/in/%EC%9C%A4%ED%99%98-%EC%A0%95-047728135/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A4%ED%99%98-%EC%A0%95-047728135/)](https://www.linkedin.com/in/%EC%9C%A4%ED%99%98-%EC%A0%95-047728135/)
+
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunanjeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **YunanJeong/yunanjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
